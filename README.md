@@ -1,4 +1,4 @@
-# 17-Leaflet-Homework-Visualization-with-Leaflet
+# Visualization-with-Leaflet
 
 ## Background
 
